@@ -1,0 +1,9 @@
+# Env
+vagrant-env/
+
+# Python
+venv/
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
