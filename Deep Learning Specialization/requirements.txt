@@ -1,0 +1,7 @@
+h5py
+ipython
+jupyter
+matplotlib
+numpy
+pyrsistent
+scipy

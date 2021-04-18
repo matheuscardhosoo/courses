@@ -4,6 +4,7 @@ vagrant-env/
 # Python
 venv/
 .ipynb_checkpoints/
+__pycache__/
 
 # VSCode
 .vscode/
